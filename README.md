@@ -1,2 +1,2 @@
-# menulis-aplikasi
-List materi pemrograman yang dipelajari dan akan disampaikan kembali dalam bentuk tulisan &amp; video
+# Menulis Aplikasi
+Adalah sebuah media yang menyediakan berbagai macam materi seputaran pemrograman untuk siapa saja yang ingin bisa menulis aplikasi.
